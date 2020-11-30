@@ -1,1 +1,1 @@
-# Skaičiavimo Sistemos
+Skaičiavimo Sistemos
